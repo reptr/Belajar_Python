@@ -5,3 +5,8 @@
 
 # untuk windows (sesuaikan dengan nama Path di windowsnya ya!)
 # #!C:\Python38\Python.exe
+
+
+# Build command , untuk setting Geany
+# Compile : python3.8 -m py_compile "%f"
+# Execute : pytho3.8 "%f"
