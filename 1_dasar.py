@@ -10,3 +10,7 @@
 # Build command , untuk setting Geany
 # Compile : python3.8 -m py_compile "%f"
 # Execute : pytho3.8 "%f"
+
+# Build command Windows
+# Compile : C:\Python38\Python.exe -m py_compile "%f"
+# Execute : C:\Python38\Python.exe "%f"
